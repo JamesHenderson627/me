@@ -559,7 +559,7 @@ hr{
 }
 
 .profile-img{
-	width:45%;
+	max-width:250px;
 	margin:0 auto 0;
 	/*border:15px solid #fff;*/
 }
