@@ -2022,4 +2022,12 @@ hr{
 	}
 	
 }
+@media (max-width:500px){
+	#personalInfo{
+		display: block;
+	}
 
+	.profile-img{
+		margin: 0 auto;
+	}
+}
